@@ -3,7 +3,7 @@ A small script to get around the annoying autostart behavior of Spotify!
 
 # Install
 ## Spotify Settings
-Please set your Spotify settings as shown (unser advanced settings):
+Please set your Spotify settings as shown (under advanced settings):
 ![Spotify Settings](spotify_settings.png)
 
 ## Script Install
